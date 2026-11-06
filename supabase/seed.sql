@@ -1,0 +1,2 @@
+-- Datos de ejemplo opcionales.
+-- Los usuarios se crean desde /register o con la API de auth de Supabase.
